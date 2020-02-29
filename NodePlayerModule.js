@@ -56,7 +56,7 @@ class NodePlayerView extends Component {
     />;
   };
 }
-NodePlayerView.name = RCT_VIDEO_REF;
+
 NodePlayerView.propTypes = {
   inputUrl: PropTypes.string,
   bufferTime: PropTypes.number,
