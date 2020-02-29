@@ -81,7 +81,6 @@ class NodeCameraView extends Component {
   };
 }
 
-NodeCameraView.name = RCT_VIDEO_REF;
 NodeCameraView.propTypes = {
   outputUrl: PropTypes.string,
   camera: PropTypes.shape({
